@@ -1,0 +1,36 @@
+body, html {
+	background: #000;
+	background: url(bg-bottom-earth-768.jpg) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+
+.buffer {
+	grid-template-columns: 	auto;
+}
+
+.navbar-custom {
+	background-color: #24323c;
+}
+.container {
+
+	opacity: 0.5;
+	margin-top: 200px
+}
+
+.navbar {
+	font-family: 'Electrolize', sans-serif;
+}
+.navbar-brand {
+	font-family: 'Orbitron', sans-serif;
+}
+
+.plot {
+	opacity: 1;
+
+	background-color: #09121c;
+	background-size: cover;
+
+}
